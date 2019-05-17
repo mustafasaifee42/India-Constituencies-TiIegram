@@ -53,6 +53,6 @@ The location of the center of the hexagon is __[Coordinate[0]*radius,Coordinate[
 
 ## Example
 
-![Map Image](./Map-with-grid/tilegram_main.png)
+![Map Image](./Map-with-grid/tilegram_main.gif)
 
-![Map Image](./Map-with-grid/tilegram.png)
+![Map Image](./Map-with-grid/tilegram.gif)
