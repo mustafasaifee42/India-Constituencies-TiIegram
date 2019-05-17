@@ -21,8 +21,8 @@ There are datafiles in 2 format:
 __CSV__
 
 There are 2 json file:
-* [tiles-data-contituency-name.csv](./data/tiles-data-contituency-name.csv)
-* [tiles-data-contituency-no.csv](./data/tiles-data-contituency-no.csv)
+* [tiles-data-contituency-name.csv](./Data/tiles-data-contituency-name.csv)
+* [tiles-data-contituency-no.csv](./Data/tiles-data-contituency-no.csv)
 
 The only difference between two files is that tiles-data-contituency-name.csv has the contituency names with the states and tiles-data-contituency-no.csv has contituency no. with the state.
 
@@ -31,8 +31,8 @@ CSV files shows the location of the constituencies in the grid as __[x,y]__ posi
 __JSON__
 
 There are 2 json file:
-* [tiles-data-all-together.json](./data/tiles-data-all-together.json)
-* [tiles-data-state-wise.json](./data/tiles-data-state-wise.json)
+* [tiles-data-all-together.json](./Data/tiles-data-all-together.json)
+* [tiles-data-state-wise.json](./Data/tiles-data-state-wise.json)
 
 The only difference in both the files is the hierarchy of objects.
 
