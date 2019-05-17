@@ -50,3 +50,9 @@ A single data object for contituency looks like
     "stateFullName": "Assam"
     
 The location of the center of the hexagon is __[Coordinate[0]*radius,Coordinate[1]*radius]__ here radius is the size of the hexagon.
+
+## Example
+
+![Map Image](./Map-with-grid/tilegram_main.png)
+
+![Map Image](./Map-with-grid/tilegram.png)
