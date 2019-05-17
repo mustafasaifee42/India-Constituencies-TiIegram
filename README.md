@@ -53,4 +53,4 @@ The location of the center of the hexagon is __[Coordinate[0] * radius, Coordina
 
 ## Example
 
-![Map Image](./Map-with-grid/tilegram_main.gif)
+![Map Image](./Map-with-grid/tilegram_main_with_names.gif)
