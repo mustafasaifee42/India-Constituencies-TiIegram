@@ -10,4 +10,4 @@ The base tilegram was take from [https://pitchinteractiveinc.github.io/tilegrams
 
 This map was used to generate a excel sheet as grid with each cell as the state code and name of the constituentcy / consticuency no.
 
-![Map Image](./MapWithGrid/Tiles.png)
+![Map Image](./MapWithGrid/tiles.png)
