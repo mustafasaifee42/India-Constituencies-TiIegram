@@ -26,7 +26,7 @@ There are 2 json file:
 
 The only difference between two files is that tiles-data-contituency-name.csv has the contituency names with the states and tiles-data-contituency-no.csv has contituency no. with the state.
 
-CSV files shows the location of the constituencies in the grid as __[x,y]__ position. The location of the center of the hexagon for a constituencies located at x,y position _(here x is column no. and y is row no.)_ in csv file is __[x*radius,y*radius]__ here radius is the size of the hexagon.
+CSV files shows the location of the constituencies in the grid as __[x,y]__ position. The location of the center of the hexagon for a constituencies located at x,y position _(here x is column no. and y is row no.)_ in csv file is __[x * radius, y * 1.5 * radius / Math.cos (Math.PI / 6)]__ here radius is the size of the hexagon.
 
 __JSON__
 
@@ -49,7 +49,7 @@ A single data object for contituency looks like
     "stateCode": "S03",
     "stateFullName": "Assam"
     
-The location of the center of the hexagon is __[Coordinate[0]*radius,Coordinate[1]*radius]__ here radius is the size of the hexagon.
+The location of the center of the hexagon is __[Coordinate[0] * radius, Coordinate[1] * 1.5 * radius / Math.cos (Math.PI / 6)]__ here radius is the size of the hexagon.
 
 ## Example
 
