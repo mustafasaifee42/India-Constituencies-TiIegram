@@ -19,9 +19,23 @@ There are datafiles in 2 format:
 * JSON
 
 __CSV__
+
+There are 2 json file:
+* [tiles-data-contituency-name.csv](./data/tiles-data-contituency-name.csv)
+* [tiles-data-contituency-no.csv](./data/tiles-data-contituency-no.csv)
+
+The only difference between two files is that tiles-data-contituency-name.csv has the contituency names with the states and tiles-data-contituency-no.csv has contituency no. with the state.
+
 CSV files shows the location of the constituencies in the grid as __[x,y]__ position. The location of the center of the hexagon for a constituencies located at x,y position _(here x is column no. and y is row no.)_ in csv file is __[x*radius,y*radius]__ here radius is the size of the hexagon.
 
 __JSON__
+
+There are 2 json file:
+* [tiles-data-all-together.json](./data/tiles-data-all-together.json)
+* [tiles-data-state-wise.json](./data/tiles-data-state-wise.json)
+
+The only difference in both the files is the hierarchy of objects.
+
 A single data object for contituency looks like
 
     "Name": "Kokrajhar",
