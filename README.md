@@ -8,6 +8,6 @@ This project containes the datasheet for creating a tilegram of India where each
 
 The base tilegram was take from [https://pitchinteractiveinc.github.io/tilegrams/](https://pitchinteractiveinc.github.io/tilegrams/)
 
-![Map Image](./MapWithGrid/tiles.png)
+![Map Image](./Map-with-grid/tiles.png)
 
 This map was used to generate a excel sheet as grid with each cell as the state code and name of the constituentcy / consticuency no.
