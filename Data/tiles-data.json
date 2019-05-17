@@ -1,0 +1,6770 @@
+[
+  {
+    "state": "AP",
+    "stateCode": "S01",
+    "stateFullName": "Andhra Pradesh",
+    "Constituencies": [
+      {
+        "Name": "Araku",
+        "Reserved": "ST",
+        "State": "AP",
+        "Constituency No": "1",
+        "Coordinate": [
+          29,
+          23
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Srikakulam",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "2",
+        "Coordinate": [
+          31,
+          23
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Visakhapatnam",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "4",
+        "Coordinate": [
+          30,
+          24
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Vizianagaram",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "3",
+        "Coordinate": [
+          32,
+          24
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Kakinada",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "6",
+        "Coordinate": [
+          29,
+          25
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Anakapalli",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "5",
+        "Coordinate": [
+          31,
+          25
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Vijayawada",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "12",
+        "Coordinate": [
+          22,
+          26
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Eluru",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "10",
+        "Coordinate": [
+          24,
+          26
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Rajahmundry",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "8",
+        "Coordinate": [
+          26,
+          26
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Narasapuram",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "9",
+        "Coordinate": [
+          28,
+          26
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Amalapuram",
+        "Reserved": "SC",
+        "State": "AP",
+        "Constituency No": "7",
+        "Coordinate": [
+          30,
+          26
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Nandyal",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "17",
+        "Coordinate": [
+          21,
+          27
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Ongole",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "16",
+        "Coordinate": [
+          23,
+          27
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Narasaraopet",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "14",
+        "Coordinate": [
+          25,
+          27
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Bapatla",
+        "Reserved": "SC",
+        "State": "AP",
+        "Constituency No": "15",
+        "Coordinate": [
+          27,
+          27
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Guntur",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "13",
+        "Coordinate": [
+          29,
+          27
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Machilipatnam",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "11",
+        "Coordinate": [
+          31,
+          27
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Kurnool",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "18",
+        "Coordinate": [
+          20,
+          28
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Anantapur",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "19",
+        "Coordinate": [
+          22,
+          28
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Kadapa",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "21",
+        "Coordinate": [
+          24,
+          28
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Nellore",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "22",
+        "Coordinate": [
+          26,
+          28
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Hindupur",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "20",
+        "Coordinate": [
+          23,
+          29
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Rajampet",
+        "Reserved": "None",
+        "State": "AP",
+        "Constituency No": "24",
+        "Coordinate": [
+          25,
+          29
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Tirupati",
+        "Reserved": "SC",
+        "State": "AP",
+        "Constituency No": "23",
+        "Coordinate": [
+          27,
+          29
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      },
+      {
+        "Name": "Chittoor",
+        "Reserved": "SC",
+        "State": "AP",
+        "Constituency No": "25",
+        "Coordinate": [
+          26,
+          30
+        ],
+        "stateCode": "S01",
+        "stateFullName": "Andhra Pradesh"
+      }
+    ]
+  },
+  {
+    "state": "AR",
+    "stateCode": "S02",
+    "stateFullName": "Arunachal Pradesh",
+    "Constituencies": [
+      {
+        "Name": "Arunachal West",
+        "Reserved": "None",
+        "State": "AR",
+        "Constituency No": "1",
+        "Coordinate": [
+          69,
+          7
+        ],
+        "stateCode": "S02",
+        "stateFullName": "Arunachal Pradesh"
+      },
+      {
+        "Name": "Arunachal East",
+        "Reserved": "None",
+        "State": "AR",
+        "Constituency No": "2",
+        "Coordinate": [
+          71,
+          7
+        ],
+        "stateCode": "S02",
+        "stateFullName": "Arunachal Pradesh"
+      }
+    ]
+  },
+  {
+    "state": "AS",
+    "stateCode": "S03",
+    "stateFullName": "Assam",
+    "Constituencies": [
+      {
+        "Name": "Kokrajhar",
+        "Reserved": "ST",
+        "State": "AS",
+        "Constituency No": "5",
+        "Coordinate": [
+          62,
+          8
+        ],
+        "stateCode": "S03",
+        "stateFullName": "Assam"
+      },
+      {
+        "Name": "Barpeta",
+        "Reserved": "None",
+        "State": "AS",
+        "Constituency No": "6",
+        "Coordinate": [
+          64,
+          8
+        ],
+        "stateCode": "S03",
+        "stateFullName": "Assam"
+      },
+      {
+        "Name": "Mangaldoi",
+        "Reserved": "None",
+        "State": "AS",
+        "Constituency No": "8",
+        "Coordinate": [
+          66,
+          8
+        ],
+        "stateCode": "S03",
+        "stateFullName": "Assam"
+      },
+      {
+        "Name": "Tezpur",
+        "Reserved": "None",
+        "State": "AS",
+        "Constituency No": "9",
+        "Coordinate": [
+          68,
+          8
+        ],
+        "stateCode": "S03",
+        "stateFullName": "Assam"
+      },
+      {
+        "Name": "Lakhimpur",
+        "Reserved": "None",
+        "State": "AS",
+        "Constituency No": "14",
+        "Coordinate": [
+          70,
+          8
+        ],
+        "stateCode": "S03",
+        "stateFullName": "Assam"
+      },
+      {
+        "Name": "Dibrugarh",
+        "Reserved": "None",
+        "State": "AS",
+        "Constituency No": "13",
+        "Coordinate": [
+          72,
+          8
+        ],
+        "stateCode": "S03",
+        "stateFullName": "Assam"
+      },
+      {
+        "Name": "Dhubri",
+        "Reserved": "None",
+        "State": "AS",
+        "Constituency No": "4",
+        "Coordinate": [
+          61,
+          9
+        ],
+        "stateCode": "S03",
+        "stateFullName": "Assam"
+      },
+      {
+        "Name": "Gauhati",
+        "Reserved": "None",
+        "State": "AS",
+        "Constituency No": "7",
+        "Coordinate": [
+          63,
+          9
+        ],
+        "stateCode": "S03",
+        "stateFullName": "Assam"
+      },
+      {
+        "Name": "Nowgong",
+        "Reserved": "None",
+        "State": "AS",
+        "Constituency No": "10",
+        "Coordinate": [
+          65,
+          9
+        ],
+        "stateCode": "S03",
+        "stateFullName": "Assam"
+      },
+      {
+        "Name": "Autonomous District",
+        "Reserved": "ST",
+        "State": "AS",
+        "Constituency No": "3",
+        "Coordinate": [
+          67,
+          9
+        ],
+        "stateCode": "S03",
+        "stateFullName": "Assam"
+      },
+      {
+        "Name": "Kaliabor",
+        "Reserved": "None",
+        "State": "AS",
+        "Constituency No": "11",
+        "Coordinate": [
+          69,
+          9
+        ],
+        "stateCode": "S03",
+        "stateFullName": "Assam"
+      },
+      {
+        "Name": "Jorhat",
+        "Reserved": "None",
+        "State": "AS",
+        "Constituency No": "12",
+        "Coordinate": [
+          73,
+          9
+        ],
+        "stateCode": "S03",
+        "stateFullName": "Assam"
+      },
+      {
+        "Name": "Silchar",
+        "Reserved": "None",
+        "State": "AS",
+        "Constituency No": "2",
+        "Coordinate": [
+          68,
+          10
+        ],
+        "stateCode": "S03",
+        "stateFullName": "Assam"
+      },
+      {
+        "Name": "Karimganj",
+        "Reserved": "SC",
+        "State": "AS",
+        "Constituency No": "1",
+        "Coordinate": [
+          67,
+          11
+        ],
+        "stateCode": "S03",
+        "stateFullName": "Assam"
+      }
+    ]
+  },
+  {
+    "state": "BR",
+    "stateCode": "S04",
+    "stateFullName": "Bihar",
+    "Constituencies": [
+      {
+        "Name": "Valmiki Nagar",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "1",
+        "Coordinate": [
+          36,
+          8
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Paschim Champaran",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "2",
+        "Coordinate": [
+          38,
+          8
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Purvi Champaran",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "3",
+        "Coordinate": [
+          37,
+          9
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Sheohar",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "4",
+        "Coordinate": [
+          39,
+          9
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Sitamarhi",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "5",
+        "Coordinate": [
+          41,
+          9
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Madhubani",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "6",
+        "Coordinate": [
+          43,
+          9
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Jhanjharpur",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "7",
+        "Coordinate": [
+          45,
+          9
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Gopalganj",
+        "Reserved": "SC",
+        "State": "BR",
+        "Constituency No": "17",
+        "Coordinate": [
+          38,
+          10
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Vaishali",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "16",
+        "Coordinate": [
+          40,
+          10
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Muzaffarpur",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "15",
+        "Coordinate": [
+          42,
+          10
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Darbhanga",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "14",
+        "Coordinate": [
+          44,
+          10
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Supaul",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "8",
+        "Coordinate": [
+          46,
+          10
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Araria",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "9",
+        "Coordinate": [
+          48,
+          10
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Kishanganj",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "10",
+        "Coordinate": [
+          50,
+          10
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Siwan",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "18",
+        "Coordinate": [
+          37,
+          11
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Maharajganj",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "19",
+        "Coordinate": [
+          39,
+          11
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Ujiarpur",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "22",
+        "Coordinate": [
+          41,
+          11
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Samastipur",
+        "Reserved": "SC",
+        "State": "BR",
+        "Constituency No": "23",
+        "Coordinate": [
+          43,
+          11
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Madhepura",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "13",
+        "Coordinate": [
+          45,
+          11
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Purnia",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "12",
+        "Coordinate": [
+          47,
+          11
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Katihar",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "11",
+        "Coordinate": [
+          49,
+          11
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Saran",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "20",
+        "Coordinate": [
+          36,
+          12
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Hajipur",
+        "Reserved": "SC",
+        "State": "BR",
+        "Constituency No": "21",
+        "Coordinate": [
+          38,
+          12
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Begusarai",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "24",
+        "Coordinate": [
+          40,
+          12
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Munger",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "28",
+        "Coordinate": [
+          42,
+          12
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Khagaria",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "25",
+        "Coordinate": [
+          44,
+          12
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Bhagalpur",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "26",
+        "Coordinate": [
+          46,
+          12
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Arrah",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "32",
+        "Coordinate": [
+          35,
+          13
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Pataliputra",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "31",
+        "Coordinate": [
+          37,
+          13
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Patna Sahib",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "30",
+        "Coordinate": [
+          39,
+          13
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Nalanda",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "29",
+        "Coordinate": [
+          41,
+          13
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Jamui",
+        "Reserved": "SC",
+        "State": "BR",
+        "Constituency No": "40",
+        "Coordinate": [
+          43,
+          13
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Banka",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "27",
+        "Coordinate": [
+          45,
+          13
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Buxar",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "33",
+        "Coordinate": [
+          34,
+          14
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Jahanabad",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "36",
+        "Coordinate": [
+          36,
+          14
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Aurangabad",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "37",
+        "Coordinate": [
+          38,
+          14
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Gaya",
+        "Reserved": "SC",
+        "State": "BR",
+        "Constituency No": "38",
+        "Coordinate": [
+          40,
+          14
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Nawada",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "39",
+        "Coordinate": [
+          42,
+          14
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Sasaram",
+        "Reserved": "SC",
+        "State": "BR",
+        "Constituency No": "34",
+        "Coordinate": [
+          35,
+          15
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      },
+      {
+        "Name": "Karakat",
+        "Reserved": "None",
+        "State": "BR",
+        "Constituency No": "35",
+        "Coordinate": [
+          37,
+          15
+        ],
+        "stateCode": "S04",
+        "stateFullName": "Bihar"
+      }
+    ]
+  },
+  {
+    "state": "CG",
+    "stateCode": "S26",
+    "stateFullName": "Chhattisgarh",
+    "Constituencies": [
+      {
+        "Name": "Sarguja",
+        "Reserved": "ST",
+        "State": "CG",
+        "Constituency No": "1",
+        "Coordinate": [
+          31,
+          17
+        ],
+        "stateCode": "S26",
+        "stateFullName": "Chhattisgarh"
+      },
+      {
+        "Name": "Raigarh",
+        "Reserved": "ST",
+        "State": "CG",
+        "Constituency No": "2",
+        "Coordinate": [
+          33,
+          17
+        ],
+        "stateCode": "S26",
+        "stateFullName": "Chhattisgarh"
+      },
+      {
+        "Name": "Korba",
+        "Reserved": "None",
+        "State": "CG",
+        "Constituency No": "4",
+        "Coordinate": [
+          30,
+          18
+        ],
+        "stateCode": "S26",
+        "stateFullName": "Chhattisgarh"
+      },
+      {
+        "Name": "Janjgir",
+        "Reserved": "SC",
+        "State": "CG",
+        "Constituency No": "3",
+        "Coordinate": [
+          32,
+          18
+        ],
+        "stateCode": "S26",
+        "stateFullName": "Chhattisgarh"
+      },
+      {
+        "Name": "Bilaspur",
+        "Reserved": "None",
+        "State": "CG",
+        "Constituency No": "5",
+        "Coordinate": [
+          29,
+          19
+        ],
+        "stateCode": "S26",
+        "stateFullName": "Chhattisgarh"
+      },
+      {
+        "Name": "Raipur",
+        "Reserved": "None",
+        "State": "CG",
+        "Constituency No": "8",
+        "Coordinate": [
+          31,
+          19
+        ],
+        "stateCode": "S26",
+        "stateFullName": "Chhattisgarh"
+      },
+      {
+        "Name": "Durg",
+        "Reserved": "None",
+        "State": "CG",
+        "Constituency No": "7",
+        "Coordinate": [
+          28,
+          20
+        ],
+        "stateCode": "S26",
+        "stateFullName": "Chhattisgarh"
+      },
+      {
+        "Name": "Mahasamund",
+        "Reserved": "None",
+        "State": "CG",
+        "Constituency No": "9",
+        "Coordinate": [
+          30,
+          20
+        ],
+        "stateCode": "S26",
+        "stateFullName": "Chhattisgarh"
+      },
+      {
+        "Name": "Rajnandgaon",
+        "Reserved": "None",
+        "State": "CG",
+        "Constituency No": "6",
+        "Coordinate": [
+          27,
+          21
+        ],
+        "stateCode": "S26",
+        "stateFullName": "Chhattisgarh"
+      },
+      {
+        "Name": "Kanker",
+        "Reserved": "ST",
+        "State": "CG",
+        "Constituency No": "11",
+        "Coordinate": [
+          29,
+          21
+        ],
+        "stateCode": "S26",
+        "stateFullName": "Chhattisgarh"
+      },
+      {
+        "Name": "Bastar",
+        "Reserved": "ST",
+        "State": "CG",
+        "Constituency No": "10",
+        "Coordinate": [
+          28,
+          22
+        ],
+        "stateCode": "S26",
+        "stateFullName": "Chhattisgarh"
+      }
+    ]
+  },
+  {
+    "state": "GA",
+    "stateCode": "S05",
+    "stateFullName": "Goa",
+    "Constituencies": [
+      {
+        "Name": "North Goa",
+        "Reserved": "None",
+        "State": "GA",
+        "Constituency No": "1",
+        "Coordinate": [
+          12,
+          26
+        ],
+        "stateCode": "S05",
+        "stateFullName": "Goa"
+      },
+      {
+        "Name": "South Goa",
+        "Reserved": "None",
+        "State": "GA",
+        "Constituency No": "2",
+        "Coordinate": [
+          13,
+          27
+        ],
+        "stateCode": "S05",
+        "stateFullName": "Goa"
+      }
+    ]
+  },
+  {
+    "state": "GJ",
+    "stateCode": "S06",
+    "stateFullName": "Gujarat",
+    "Constituencies": [
+      {
+        "Name": "Patan",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "3",
+        "Coordinate": [
+          7,
+          13
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Banaskantha",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "2",
+        "Coordinate": [
+          9,
+          13
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Kachchh",
+        "Reserved": "SC",
+        "State": "GJ",
+        "Constituency No": "1",
+        "Coordinate": [
+          0,
+          14
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Mahesana",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "4",
+        "Coordinate": [
+          2,
+          14
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Gandhinagar",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "6",
+        "Coordinate": [
+          4,
+          14
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Ahmedabad West",
+        "Reserved": "SC",
+        "State": "GJ",
+        "Constituency No": "8",
+        "Coordinate": [
+          6,
+          14
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Ahmedabad East",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "7",
+        "Coordinate": [
+          8,
+          14
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Sabarkantha",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "5",
+        "Coordinate": [
+          10,
+          14
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Rajkot",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "10",
+        "Coordinate": [
+          1,
+          15
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Surendranagar",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "9",
+        "Coordinate": [
+          3,
+          15
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Kheda",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "17",
+        "Coordinate": [
+          5,
+          15
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Vadodara",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "20",
+        "Coordinate": [
+          7,
+          15
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Panchmahal",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "18",
+        "Coordinate": [
+          9,
+          15
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Dahod",
+        "Reserved": "ST",
+        "State": "GJ",
+        "Constituency No": "19",
+        "Coordinate": [
+          11,
+          15
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Anand",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "16",
+        "Coordinate": [
+          6,
+          16
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Bharuch",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "22",
+        "Coordinate": [
+          8,
+          16
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Surat",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "24",
+        "Coordinate": [
+          10,
+          16
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Chhota Udaipur",
+        "Reserved": "ST",
+        "State": "GJ",
+        "Constituency No": "21",
+        "Coordinate": [
+          12,
+          16
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Porbandar",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "11",
+        "Coordinate": [
+          3,
+          17
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Jamnagar",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "12",
+        "Coordinate": [
+          5,
+          17
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Bhavnagar",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "15",
+        "Coordinate": [
+          7,
+          17
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Bardoli",
+        "Reserved": "ST",
+        "State": "GJ",
+        "Constituency No": "23",
+        "Coordinate": [
+          11,
+          17
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Junagadh",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "13",
+        "Coordinate": [
+          4,
+          18
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Amreli",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "14",
+        "Coordinate": [
+          6,
+          18
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Navsari",
+        "Reserved": "None",
+        "State": "GJ",
+        "Constituency No": "25",
+        "Coordinate": [
+          10,
+          18
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      },
+      {
+        "Name": "Valsad",
+        "Reserved": "ST",
+        "State": "GJ",
+        "Constituency No": "26",
+        "Coordinate": [
+          12,
+          18
+        ],
+        "stateCode": "S06",
+        "stateFullName": "Gujarat"
+      }
+    ]
+  },
+  {
+    "state": "HR",
+    "stateCode": "S07",
+    "stateFullName": "Haryana",
+    "Constituencies": [
+      {
+        "Name": "Ambala",
+        "Reserved": "SC",
+        "State": "HR",
+        "Constituency No": "1",
+        "Coordinate": [
+          18,
+          2
+        ],
+        "stateCode": "S07",
+        "stateFullName": "Haryana"
+      },
+      {
+        "Name": "Kurukshetra",
+        "Reserved": "None",
+        "State": "HR",
+        "Constituency No": "2",
+        "Coordinate": [
+          17,
+          3
+        ],
+        "stateCode": "S07",
+        "stateFullName": "Haryana"
+      },
+      {
+        "Name": "Karnal",
+        "Reserved": "None",
+        "State": "HR",
+        "Constituency No": "5",
+        "Coordinate": [
+          16,
+          4
+        ],
+        "stateCode": "S07",
+        "stateFullName": "Haryana"
+      },
+      {
+        "Name": "Hissar",
+        "Reserved": "None",
+        "State": "HR",
+        "Constituency No": "4",
+        "Coordinate": [
+          15,
+          5
+        ],
+        "stateCode": "S07",
+        "stateFullName": "Haryana"
+      },
+      {
+        "Name": "Sirsa",
+        "Reserved": "SC",
+        "State": "HR",
+        "Constituency No": "3",
+        "Coordinate": [
+          12,
+          6
+        ],
+        "stateCode": "S07",
+        "stateFullName": "Haryana"
+      },
+      {
+        "Name": "Sonipat",
+        "Reserved": "None",
+        "State": "HR",
+        "Constituency No": "6",
+        "Coordinate": [
+          14,
+          6
+        ],
+        "stateCode": "S07",
+        "stateFullName": "Haryana"
+      },
+      {
+        "Name": "Rohtak",
+        "Reserved": "None",
+        "State": "HR",
+        "Constituency No": "7",
+        "Coordinate": [
+          13,
+          7
+        ],
+        "stateCode": "S07",
+        "stateFullName": "Haryana"
+      },
+      {
+        "Name": "Bhiwani\u00e2\u20ac\u201cMahendragarh",
+        "Reserved": "None",
+        "State": "HR",
+        "Constituency No": "8",
+        "Coordinate": [
+          14,
+          8
+        ],
+        "stateCode": "S07",
+        "stateFullName": "Haryana"
+      },
+      {
+        "Name": "Gurgaon",
+        "Reserved": "None",
+        "State": "HR",
+        "Constituency No": "9",
+        "Coordinate": [
+          15,
+          9
+        ],
+        "stateCode": "S07",
+        "stateFullName": "Haryana"
+      },
+      {
+        "Name": "Faridabad",
+        "Reserved": "None",
+        "State": "HR",
+        "Constituency No": "10",
+        "Coordinate": [
+          17,
+          9
+        ],
+        "stateCode": "S07",
+        "stateFullName": "Haryana"
+      }
+    ]
+  },
+  {
+    "state": "HP",
+    "stateCode": "S08",
+    "stateFullName": "Himachal Pradesh",
+    "Constituencies": [
+      {
+        "Name": "Kangra",
+        "Reserved": "None",
+        "State": "HP",
+        "Constituency No": "1",
+        "Coordinate": [
+          19,
+          1
+        ],
+        "stateCode": "S08",
+        "stateFullName": "Himachal Pradesh"
+      },
+      {
+        "Name": "Mandi",
+        "Reserved": "None",
+        "State": "HP",
+        "Constituency No": "2",
+        "Coordinate": [
+          21,
+          1
+        ],
+        "stateCode": "S08",
+        "stateFullName": "Himachal Pradesh"
+      },
+      {
+        "Name": "Hamirpur",
+        "Reserved": "None",
+        "State": "HP",
+        "Constituency No": "3",
+        "Coordinate": [
+          20,
+          2
+        ],
+        "stateCode": "S08",
+        "stateFullName": "Himachal Pradesh"
+      },
+      {
+        "Name": "Shimla",
+        "Reserved": "SC",
+        "State": "HP",
+        "Constituency No": "4",
+        "Coordinate": [
+          22,
+          2
+        ],
+        "stateCode": "S08",
+        "stateFullName": "Himachal Pradesh"
+      }
+    ]
+  },
+  {
+    "state": "JK",
+    "stateCode": "S09",
+    "stateFullName": "Jammu and Kashmir",
+    "Constituencies": [
+      {
+        "Name": "Baramulla",
+        "Reserved": "None",
+        "State": "JK",
+        "Constituency No": "1",
+        "Coordinate": [
+          12,
+          0
+        ],
+        "stateCode": "S09",
+        "stateFullName": "Jammu and Kashmir"
+      },
+      {
+        "Name": "Srinagar",
+        "Reserved": "None",
+        "State": "JK",
+        "Constituency No": "2",
+        "Coordinate": [
+          14,
+          0
+        ],
+        "stateCode": "S09",
+        "stateFullName": "Jammu and Kashmir"
+      },
+      {
+        "Name": "Anantnag",
+        "Reserved": "None",
+        "State": "JK",
+        "Constituency No": "3",
+        "Coordinate": [
+          16,
+          0
+        ],
+        "stateCode": "S09",
+        "stateFullName": "Jammu and Kashmir"
+      },
+      {
+        "Name": "Udhampur",
+        "Reserved": "None",
+        "State": "JK",
+        "Constituency No": "5",
+        "Coordinate": [
+          18,
+          0
+        ],
+        "stateCode": "S09",
+        "stateFullName": "Jammu and Kashmir"
+      },
+      {
+        "Name": "Ladakh",
+        "Reserved": "None",
+        "State": "JK",
+        "Constituency No": "4",
+        "Coordinate": [
+          20,
+          0
+        ],
+        "stateCode": "S09",
+        "stateFullName": "Jammu and Kashmir"
+      },
+      {
+        "Name": "Jammu",
+        "Reserved": "None",
+        "State": "JK",
+        "Constituency No": "6",
+        "Coordinate": [
+          11,
+          1
+        ],
+        "stateCode": "S09",
+        "stateFullName": "Jammu and Kashmir"
+      }
+    ]
+  },
+  {
+    "state": "JH",
+    "stateCode": "S27",
+    "stateFullName": "Jharkhand",
+    "Constituencies": [
+      {
+        "Name": "Rajmahal",
+        "Reserved": "ST",
+        "State": "JH",
+        "Constituency No": "1",
+        "Coordinate": [
+          47,
+          13
+        ],
+        "stateCode": "S27",
+        "stateFullName": "Jharkhand"
+      },
+      {
+        "Name": "Godda",
+        "Reserved": "None",
+        "State": "JH",
+        "Constituency No": "3",
+        "Coordinate": [
+          44,
+          14
+        ],
+        "stateCode": "S27",
+        "stateFullName": "Jharkhand"
+      },
+      {
+        "Name": "Dumka",
+        "Reserved": "ST",
+        "State": "JH",
+        "Constituency No": "2",
+        "Coordinate": [
+          46,
+          14
+        ],
+        "stateCode": "S27",
+        "stateFullName": "Jharkhand"
+      },
+      {
+        "Name": "Chatra",
+        "Reserved": "None",
+        "State": "JH",
+        "Constituency No": "4",
+        "Coordinate": [
+          39,
+          15
+        ],
+        "stateCode": "S27",
+        "stateFullName": "Jharkhand"
+      },
+      {
+        "Name": "Hazaribagh",
+        "Reserved": "None",
+        "State": "JH",
+        "Constituency No": "14",
+        "Coordinate": [
+          41,
+          15
+        ],
+        "stateCode": "S27",
+        "stateFullName": "Jharkhand"
+      },
+      {
+        "Name": "Kodarma",
+        "Reserved": "None",
+        "State": "JH",
+        "Constituency No": "5",
+        "Coordinate": [
+          43,
+          15
+        ],
+        "stateCode": "S27",
+        "stateFullName": "Jharkhand"
+      },
+      {
+        "Name": "Palamau",
+        "Reserved": "SC",
+        "State": "JH",
+        "Constituency No": "13",
+        "Coordinate": [
+          32,
+          16
+        ],
+        "stateCode": "S27",
+        "stateFullName": "Jharkhand"
+      },
+      {
+        "Name": "Lohardaga",
+        "Reserved": "ST",
+        "State": "JH",
+        "Constituency No": "12",
+        "Coordinate": [
+          34,
+          16
+        ],
+        "stateCode": "S27",
+        "stateFullName": "Jharkhand"
+      },
+      {
+        "Name": "Ranchi",
+        "Reserved": "None",
+        "State": "JH",
+        "Constituency No": "8",
+        "Coordinate": [
+          36,
+          16
+        ],
+        "stateCode": "S27",
+        "stateFullName": "Jharkhand"
+      },
+      {
+        "Name": "Giridih",
+        "Reserved": "None",
+        "State": "JH",
+        "Constituency No": "6",
+        "Coordinate": [
+          38,
+          16
+        ],
+        "stateCode": "S27",
+        "stateFullName": "Jharkhand"
+      },
+      {
+        "Name": "Dhanbad",
+        "Reserved": "None",
+        "State": "JH",
+        "Constituency No": "7",
+        "Coordinate": [
+          40,
+          16
+        ],
+        "stateCode": "S27",
+        "stateFullName": "Jharkhand"
+      },
+      {
+        "Name": "Khunti",
+        "Reserved": "ST",
+        "State": "JH",
+        "Constituency No": "11",
+        "Coordinate": [
+          35,
+          17
+        ],
+        "stateCode": "S27",
+        "stateFullName": "Jharkhand"
+      },
+      {
+        "Name": "Singhbhum",
+        "Reserved": "ST",
+        "State": "JH",
+        "Constituency No": "10",
+        "Coordinate": [
+          37,
+          17
+        ],
+        "stateCode": "S27",
+        "stateFullName": "Jharkhand"
+      },
+      {
+        "Name": "Jamshedpur",
+        "Reserved": "None",
+        "State": "JH",
+        "Constituency No": "9",
+        "Coordinate": [
+          39,
+          17
+        ],
+        "stateCode": "S27",
+        "stateFullName": "Jharkhand"
+      }
+    ]
+  },
+  {
+    "state": "KA",
+    "stateCode": "S10",
+    "stateFullName": "Karnataka",
+    "Constituencies": [
+      {
+        "Name": "Bidar",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "7",
+        "Coordinate": [
+          19,
+          23
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Bijapur",
+        "Reserved": "SC",
+        "State": "KA",
+        "Constituency No": "4",
+        "Coordinate": [
+          16,
+          24
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Kalaburagi",
+        "Reserved": "SC",
+        "State": "KA",
+        "Constituency No": "5",
+        "Coordinate": [
+          18,
+          24
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Raichur",
+        "Reserved": "ST",
+        "State": "KA",
+        "Constituency No": "6",
+        "Coordinate": [
+          20,
+          24
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Chikkodi",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "1",
+        "Coordinate": [
+          13,
+          25
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Belagavi",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "2",
+        "Coordinate": [
+          15,
+          25
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Dharwad",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "11",
+        "Coordinate": [
+          17,
+          25
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Bagalkot",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "3",
+        "Coordinate": [
+          19,
+          25
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Koppal",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "8",
+        "Coordinate": [
+          21,
+          25
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Uttara Kannada",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "12",
+        "Coordinate": [
+          14,
+          26
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Haveri",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "10",
+        "Coordinate": [
+          16,
+          26
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Davanagere",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "13",
+        "Coordinate": [
+          18,
+          26
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Bellary",
+        "Reserved": "ST",
+        "State": "KA",
+        "Constituency No": "9",
+        "Coordinate": [
+          20,
+          26
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Shimoga",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "14",
+        "Coordinate": [
+          15,
+          27
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Tumkur",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "19",
+        "Coordinate": [
+          17,
+          27
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Chitradurga",
+        "Reserved": "SC",
+        "State": "KA",
+        "Constituency No": "18",
+        "Coordinate": [
+          19,
+          27
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Udupi Chikmagalur",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "15",
+        "Coordinate": [
+          14,
+          28
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Hassan",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "16",
+        "Coordinate": [
+          16,
+          28
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Bangalore South",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "26",
+        "Coordinate": [
+          18,
+          28
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Dakshina Kannada",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "17",
+        "Coordinate": [
+          15,
+          29
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Bangalore North",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "24",
+        "Coordinate": [
+          17,
+          29
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Bangalore Central",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "25",
+        "Coordinate": [
+          19,
+          29
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Chikballapur",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "27",
+        "Coordinate": [
+          21,
+          29
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Mysore",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "21",
+        "Coordinate": [
+          16,
+          30
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Mandya",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "20",
+        "Coordinate": [
+          18,
+          30
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Kolar",
+        "Reserved": "SC",
+        "State": "KA",
+        "Constituency No": "28",
+        "Coordinate": [
+          22,
+          30
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Chamarajanagar",
+        "Reserved": "SC",
+        "State": "KA",
+        "Constituency No": "22",
+        "Coordinate": [
+          17,
+          31
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      },
+      {
+        "Name": "Bangalore Rural",
+        "Reserved": "None",
+        "State": "KA",
+        "Constituency No": "23",
+        "Coordinate": [
+          19,
+          31
+        ],
+        "stateCode": "S10",
+        "stateFullName": "Karnataka"
+      }
+    ]
+  },
+  {
+    "state": "KL",
+    "stateCode": "S11",
+    "stateFullName": "Kerala",
+    "Constituencies": [
+      {
+        "Name": "Kasaragod",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "1",
+        "Coordinate": [
+          14,
+          30
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Kannur",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "2",
+        "Coordinate": [
+          13,
+          31
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Vatakara",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "3",
+        "Coordinate": [
+          15,
+          31
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Kozhikode",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "5",
+        "Coordinate": [
+          12,
+          32
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Malappuram",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "6",
+        "Coordinate": [
+          14,
+          32
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Wayanad",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "4",
+        "Coordinate": [
+          16,
+          32
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Ponnani",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "7",
+        "Coordinate": [
+          13,
+          33
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Palakkad",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "8",
+        "Coordinate": [
+          15,
+          33
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Alathur",
+        "Reserved": "SC",
+        "State": "KL",
+        "Constituency No": "9",
+        "Coordinate": [
+          17,
+          33
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Thrissur",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "10",
+        "Coordinate": [
+          14,
+          34
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Chalakudy",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "11",
+        "Coordinate": [
+          16,
+          34
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Ernakulam",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "12",
+        "Coordinate": [
+          15,
+          35
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Idukki",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "13",
+        "Coordinate": [
+          17,
+          35
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Alappuzha",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "15",
+        "Coordinate": [
+          16,
+          36
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Kottayam",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "14",
+        "Coordinate": [
+          18,
+          36
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Mavelikara",
+        "Reserved": "SC",
+        "State": "KL",
+        "Constituency No": "16",
+        "Coordinate": [
+          17,
+          37
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Pathanamthitta",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "17",
+        "Coordinate": [
+          19,
+          37
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Attingal",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "19",
+        "Coordinate": [
+          18,
+          38
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Kollam",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "18",
+        "Coordinate": [
+          20,
+          38
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      },
+      {
+        "Name": "Thiruvananthapuram",
+        "Reserved": "None",
+        "State": "KL",
+        "Constituency No": "20",
+        "Coordinate": [
+          19,
+          39
+        ],
+        "stateCode": "S11",
+        "stateFullName": "Kerala"
+      }
+    ]
+  },
+  {
+    "state": "MP",
+    "stateCode": "S12",
+    "stateFullName": "Madhya Pradesh",
+    "Constituencies": [
+      {
+        "Name": "Morena",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "1",
+        "Coordinate": [
+          18,
+          12
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Mandsaur",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "23",
+        "Coordinate": [
+          13,
+          13
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Gwalior",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "3",
+        "Coordinate": [
+          17,
+          13
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Bhind",
+        "Reserved": "SC",
+        "State": "MP",
+        "Constituency No": "2",
+        "Coordinate": [
+          19,
+          13
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Ujjain",
+        "Reserved": "SC",
+        "State": "MP",
+        "Constituency No": "22",
+        "Coordinate": [
+          14,
+          14
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Rajgarh",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "20",
+        "Coordinate": [
+          16,
+          14
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Guna",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "4",
+        "Coordinate": [
+          18,
+          14
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Ratlam",
+        "Reserved": "ST",
+        "State": "MP",
+        "Constituency No": "24",
+        "Coordinate": [
+          13,
+          15
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Bhopal",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "19",
+        "Coordinate": [
+          15,
+          15
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Sagar",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "5",
+        "Coordinate": [
+          17,
+          15
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Tikamgarh",
+        "Reserved": "SC",
+        "State": "MP",
+        "Constituency No": "6",
+        "Coordinate": [
+          19,
+          15
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Satna",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "9",
+        "Coordinate": [
+          21,
+          15
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Dhar",
+        "Reserved": "ST",
+        "State": "MP",
+        "Constituency No": "25",
+        "Coordinate": [
+          14,
+          16
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Dewas",
+        "Reserved": "SC",
+        "State": "MP",
+        "Constituency No": "21",
+        "Coordinate": [
+          16,
+          16
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Damoh",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "7",
+        "Coordinate": [
+          18,
+          16
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Khajuraho",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "8",
+        "Coordinate": [
+          20,
+          16
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Rewa",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "10",
+        "Coordinate": [
+          22,
+          16
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Sidhi",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "11",
+        "Coordinate": [
+          24,
+          16
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Shahdol",
+        "Reserved": "ST",
+        "State": "MP",
+        "Constituency No": "12",
+        "Coordinate": [
+          26,
+          16
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Khargone",
+        "Reserved": "ST",
+        "State": "MP",
+        "Constituency No": "27",
+        "Coordinate": [
+          15,
+          17
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Indore",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "26",
+        "Coordinate": [
+          17,
+          17
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Khandwa",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "28",
+        "Coordinate": [
+          19,
+          17
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Betul",
+        "Reserved": "ST",
+        "State": "MP",
+        "Constituency No": "29",
+        "Coordinate": [
+          21,
+          17
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Vidisha",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "18",
+        "Coordinate": [
+          23,
+          17
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Hoshangabad",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "17",
+        "Coordinate": [
+          25,
+          17
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Jabalpur",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "13",
+        "Coordinate": [
+          27,
+          17
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Chhindwara",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "16",
+        "Coordinate": [
+          24,
+          18
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Balaghat",
+        "Reserved": "None",
+        "State": "MP",
+        "Constituency No": "15",
+        "Coordinate": [
+          26,
+          18
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      },
+      {
+        "Name": "Mandla",
+        "Reserved": "ST",
+        "State": "MP",
+        "Constituency No": "14",
+        "Coordinate": [
+          28,
+          18
+        ],
+        "stateCode": "S12",
+        "stateFullName": "Madhya Pradesh"
+      }
+    ]
+  },
+  {
+    "state": "MH",
+    "stateCode": "S13",
+    "stateFullName": "Maharashtra",
+    "Constituencies": [
+      {
+        "Name": "Nandurbar",
+        "Reserved": "ST",
+        "State": "MH",
+        "Constituency No": "1",
+        "Coordinate": [
+          13,
+          17
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Dhule",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "2",
+        "Coordinate": [
+          14,
+          18
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Jalgaon",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "3",
+        "Coordinate": [
+          16,
+          18
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Raver",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "4",
+        "Coordinate": [
+          18,
+          18
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Akola",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "6",
+        "Coordinate": [
+          20,
+          18
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Amravati",
+        "Reserved": "SC",
+        "State": "MH",
+        "Constituency No": "7",
+        "Coordinate": [
+          22,
+          18
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Nashik",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "21",
+        "Coordinate": [
+          11,
+          19
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Dindori",
+        "Reserved": "ST",
+        "State": "MH",
+        "Constituency No": "20",
+        "Coordinate": [
+          13,
+          19
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Aurangabad",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "19",
+        "Coordinate": [
+          15,
+          19
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Jalna",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "18",
+        "Coordinate": [
+          17,
+          19
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Buldhana",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "5",
+        "Coordinate": [
+          19,
+          19
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Wardha",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "8",
+        "Coordinate": [
+          21,
+          19
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Ramtek",
+        "Reserved": "SC",
+        "State": "MH",
+        "Constituency No": "9",
+        "Coordinate": [
+          23,
+          19
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Nagpur",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "10",
+        "Coordinate": [
+          25,
+          19
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Bhandara\u00e2\u20ac\u201cGondiya",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "11",
+        "Coordinate": [
+          27,
+          19
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Thane",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "25",
+        "Coordinate": [
+          8,
+          20
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Mumbai North",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "26",
+        "Coordinate": [
+          10,
+          20
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Palghar",
+        "Reserved": "ST",
+        "State": "MH",
+        "Constituency No": "22",
+        "Coordinate": [
+          12,
+          20
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Bhiwandi",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "23",
+        "Coordinate": [
+          14,
+          20
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Shirdi",
+        "Reserved": "SC",
+        "State": "MH",
+        "Constituency No": "38",
+        "Coordinate": [
+          16,
+          20
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Ahmednagar",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "37",
+        "Coordinate": [
+          18,
+          20
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Yavatmal\u00e2\u20ac\u201cWashim",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "14",
+        "Coordinate": [
+          20,
+          20
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Chandrapur",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "13",
+        "Coordinate": [
+          22,
+          20
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Gadchiroli\u00e2\u20ac\u201cChimur",
+        "Reserved": "ST",
+        "State": "MH",
+        "Constituency No": "12",
+        "Coordinate": [
+          24,
+          20
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Mumbai North West",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "27",
+        "Coordinate": [
+          9,
+          21
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Mumbai North East",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "28",
+        "Coordinate": [
+          11,
+          21
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Kalyan",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "24",
+        "Coordinate": [
+          13,
+          21
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Shirur",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "36",
+        "Coordinate": [
+          15,
+          21
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Beed",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "39",
+        "Coordinate": [
+          17,
+          21
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Parbhani",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "17",
+        "Coordinate": [
+          19,
+          21
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Hingoli",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "15",
+        "Coordinate": [
+          21,
+          21
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Mumbai South Central",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "30",
+        "Coordinate": [
+          8,
+          22
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Mumbai North Central",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "29",
+        "Coordinate": [
+          10,
+          22
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Maval",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "33",
+        "Coordinate": [
+          12,
+          22
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Pune",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "34",
+        "Coordinate": [
+          14,
+          22
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Baramati",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "35",
+        "Coordinate": [
+          16,
+          22
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Latur",
+        "Reserved": "SC",
+        "State": "MH",
+        "Constituency No": "41",
+        "Coordinate": [
+          18,
+          22
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Nanded",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "16",
+        "Coordinate": [
+          20,
+          22
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Mumbai South",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "31",
+        "Coordinate": [
+          7,
+          23
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Raigad",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "32",
+        "Coordinate": [
+          9,
+          23
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Satara",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "45",
+        "Coordinate": [
+          11,
+          23
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Madha",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "43",
+        "Coordinate": [
+          13,
+          23
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Solapur",
+        "Reserved": "SC",
+        "State": "MH",
+        "Constituency No": "42",
+        "Coordinate": [
+          15,
+          23
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Osmanabad",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "40",
+        "Coordinate": [
+          17,
+          23
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Ratnagiri\u00e2\u20ac\u201cSindhudurg",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "46",
+        "Coordinate": [
+          10,
+          24
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Hatkanangle",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "48",
+        "Coordinate": [
+          12,
+          24
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Sangli",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "44",
+        "Coordinate": [
+          14,
+          24
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      },
+      {
+        "Name": "Kolhapur",
+        "Reserved": "None",
+        "State": "MH",
+        "Constituency No": "47",
+        "Coordinate": [
+          11,
+          25
+        ],
+        "stateCode": "S13",
+        "stateFullName": "Maharashtra"
+      }
+    ]
+  },
+  {
+    "state": "MN",
+    "stateCode": "S14",
+    "stateFullName": "Manipur",
+    "Constituencies": [
+      {
+        "Name": "Inner Manipur",
+        "Reserved": "None",
+        "State": "MN",
+        "Constituency No": "1",
+        "Coordinate": [
+          70,
+          10
+        ],
+        "stateCode": "S14",
+        "stateFullName": "Manipur"
+      },
+      {
+        "Name": "Outer Manipur",
+        "Reserved": "ST",
+        "State": "MN",
+        "Constituency No": "2",
+        "Coordinate": [
+          69,
+          11
+        ],
+        "stateCode": "S14",
+        "stateFullName": "Manipur"
+      }
+    ]
+  },
+  {
+    "state": "ML",
+    "stateCode": "S15",
+    "stateFullName": "Meghalaya",
+    "Constituencies": [
+      {
+        "Name": "Tura",
+        "Reserved": "ST",
+        "State": "ML",
+        "Constituency No": "2",
+        "Coordinate": [
+          64,
+          10
+        ],
+        "stateCode": "S15",
+        "stateFullName": "Meghalaya"
+      },
+      {
+        "Name": "Shillong",
+        "Reserved": "ST",
+        "State": "ML",
+        "Constituency No": "1",
+        "Coordinate": [
+          66,
+          10
+        ],
+        "stateCode": "S15",
+        "stateFullName": "Meghalaya"
+      }
+    ]
+  },
+  {
+    "state": "MZ",
+    "stateCode": "S16",
+    "stateFullName": "Mizoram",
+    "Constituencies": [
+      {
+        "Name": "Mizoram",
+        "Reserved": "ST",
+        "State": "MZ",
+        "Constituency No": "1",
+        "Coordinate": [
+          68,
+          12
+        ],
+        "stateCode": "S16",
+        "stateFullName": "Mizoram"
+      }
+    ]
+  },
+  {
+    "state": "NL",
+    "stateCode": "S17",
+    "stateFullName": "Nagaland",
+    "Constituencies": [
+      {
+        "Name": "Nagaland",
+        "Reserved": "None",
+        "State": "NL",
+        "Constituency No": "1",
+        "Coordinate": [
+          71,
+          9
+        ],
+        "stateCode": "S17",
+        "stateFullName": "Nagaland"
+      }
+    ]
+  },
+  {
+    "state": "OR",
+    "stateCode": "S18",
+    "stateFullName": "Orissa",
+    "Constituencies": [
+      {
+        "Name": "Mayurbhanj",
+        "Reserved": "ST",
+        "State": "OR",
+        "Constituency No": "5",
+        "Coordinate": [
+          45,
+          15
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Sundargarh",
+        "Reserved": "ST",
+        "State": "OR",
+        "Constituency No": "2",
+        "Coordinate": [
+          42,
+          16
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Keonjhar",
+        "Reserved": "ST",
+        "State": "OR",
+        "Constituency No": "4",
+        "Coordinate": [
+          44,
+          16
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Balasore",
+        "Reserved": "None",
+        "State": "OR",
+        "Constituency No": "6",
+        "Coordinate": [
+          46,
+          16
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Jajpur",
+        "Reserved": "SC",
+        "State": "OR",
+        "Constituency No": "8",
+        "Coordinate": [
+          41,
+          17
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Bhadrak",
+        "Reserved": "SC",
+        "State": "OR",
+        "Constituency No": "7",
+        "Coordinate": [
+          43,
+          17
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Bargarh",
+        "Reserved": "None",
+        "State": "OR",
+        "Constituency No": "1",
+        "Coordinate": [
+          34,
+          18
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Sambalpur",
+        "Reserved": "None",
+        "State": "OR",
+        "Constituency No": "3",
+        "Coordinate": [
+          36,
+          18
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Dhenkanal",
+        "Reserved": "None",
+        "State": "OR",
+        "Constituency No": "9",
+        "Coordinate": [
+          38,
+          18
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Kendrapara",
+        "Reserved": "None",
+        "State": "OR",
+        "Constituency No": "15",
+        "Coordinate": [
+          40,
+          18
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Bolangir",
+        "Reserved": "None",
+        "State": "OR",
+        "Constituency No": "10",
+        "Coordinate": [
+          33,
+          19
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Cuttack",
+        "Reserved": "None",
+        "State": "OR",
+        "Constituency No": "14",
+        "Coordinate": [
+          35,
+          19
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Bhubaneswar",
+        "Reserved": "None",
+        "State": "OR",
+        "Constituency No": "18",
+        "Coordinate": [
+          37,
+          19
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Jagatsinghpur",
+        "Reserved": "SC",
+        "State": "OR",
+        "Constituency No": "16",
+        "Coordinate": [
+          39,
+          19
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Kalahandi",
+        "Reserved": "None",
+        "State": "OR",
+        "Constituency No": "11",
+        "Coordinate": [
+          32,
+          20
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Kandhamal",
+        "Reserved": "None",
+        "State": "OR",
+        "Constituency No": "13",
+        "Coordinate": [
+          34,
+          20
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Aska",
+        "Reserved": "None",
+        "State": "OR",
+        "Constituency No": "19",
+        "Coordinate": [
+          36,
+          20
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Puri",
+        "Reserved": "None",
+        "State": "OR",
+        "Constituency No": "17",
+        "Coordinate": [
+          38,
+          20
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Koraput",
+        "Reserved": "ST",
+        "State": "OR",
+        "Constituency No": "21",
+        "Coordinate": [
+          31,
+          21
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Berhampur",
+        "Reserved": "None",
+        "State": "OR",
+        "Constituency No": "20",
+        "Coordinate": [
+          33,
+          21
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      },
+      {
+        "Name": "Nabarangpur",
+        "Reserved": "ST",
+        "State": "OR",
+        "Constituency No": "12",
+        "Coordinate": [
+          30,
+          22
+        ],
+        "stateCode": "S18",
+        "stateFullName": "Orissa"
+      }
+    ]
+  },
+  {
+    "state": "PB",
+    "stateCode": "S19",
+    "stateFullName": "Punjab",
+    "Constituencies": [
+      {
+        "Name": "Amritsar",
+        "Reserved": "None",
+        "State": "PB",
+        "Constituency No": "2",
+        "Coordinate": [
+          13,
+          1
+        ],
+        "stateCode": "S19",
+        "stateFullName": "Punjab"
+      },
+      {
+        "Name": "Gurdaspur",
+        "Reserved": "None",
+        "State": "PB",
+        "Constituency No": "1",
+        "Coordinate": [
+          15,
+          1
+        ],
+        "stateCode": "S19",
+        "stateFullName": "Punjab"
+      },
+      {
+        "Name": "Hoshiarpur",
+        "Reserved": "SC",
+        "State": "PB",
+        "Constituency No": "5",
+        "Coordinate": [
+          17,
+          1
+        ],
+        "stateCode": "S19",
+        "stateFullName": "Punjab"
+      },
+      {
+        "Name": "Khadoor Sahib",
+        "Reserved": "None",
+        "State": "PB",
+        "Constituency No": "3",
+        "Coordinate": [
+          12,
+          2
+        ],
+        "stateCode": "S19",
+        "stateFullName": "Punjab"
+      },
+      {
+        "Name": "Jalandhar",
+        "Reserved": "SC",
+        "State": "PB",
+        "Constituency No": "4",
+        "Coordinate": [
+          14,
+          2
+        ],
+        "stateCode": "S19",
+        "stateFullName": "Punjab"
+      },
+      {
+        "Name": "Faridkot",
+        "Reserved": "SC",
+        "State": "PB",
+        "Constituency No": "9",
+        "Coordinate": [
+          11,
+          3
+        ],
+        "stateCode": "S19",
+        "stateFullName": "Punjab"
+      },
+      {
+        "Name": "Fatehgarh Sahib",
+        "Reserved": "SC",
+        "State": "PB",
+        "Constituency No": "8",
+        "Coordinate": [
+          13,
+          3
+        ],
+        "stateCode": "S19",
+        "stateFullName": "Punjab"
+      },
+      {
+        "Name": "Anandpur Sahib",
+        "Reserved": "None",
+        "State": "PB",
+        "Constituency No": "6",
+        "Coordinate": [
+          15,
+          3
+        ],
+        "stateCode": "S19",
+        "stateFullName": "Punjab"
+      },
+      {
+        "Name": "Firozpur",
+        "Reserved": "None",
+        "State": "PB",
+        "Constituency No": "10",
+        "Coordinate": [
+          10,
+          4
+        ],
+        "stateCode": "S19",
+        "stateFullName": "Punjab"
+      },
+      {
+        "Name": "Ludhiana",
+        "Reserved": "None",
+        "State": "PB",
+        "Constituency No": "7",
+        "Coordinate": [
+          12,
+          4
+        ],
+        "stateCode": "S19",
+        "stateFullName": "Punjab"
+      },
+      {
+        "Name": "Patiala",
+        "Reserved": "None",
+        "State": "PB",
+        "Constituency No": "13",
+        "Coordinate": [
+          14,
+          4
+        ],
+        "stateCode": "S19",
+        "stateFullName": "Punjab"
+      },
+      {
+        "Name": "Bathinda",
+        "Reserved": "None",
+        "State": "PB",
+        "Constituency No": "11",
+        "Coordinate": [
+          11,
+          5
+        ],
+        "stateCode": "S19",
+        "stateFullName": "Punjab"
+      },
+      {
+        "Name": "Sangrur",
+        "Reserved": "None",
+        "State": "PB",
+        "Constituency No": "12",
+        "Coordinate": [
+          13,
+          5
+        ],
+        "stateCode": "S19",
+        "stateFullName": "Punjab"
+      }
+    ]
+  },
+  {
+    "state": "RJ",
+    "stateCode": "S20",
+    "stateFullName": "Rajasthan",
+    "Constituencies": [
+      {
+        "Name": "Ganganagar",
+        "Reserved": "SC",
+        "State": "RJ",
+        "Constituency No": "1",
+        "Coordinate": [
+          10,
+          6
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Bikaner",
+        "Reserved": "SC",
+        "State": "RJ",
+        "Constituency No": "2",
+        "Coordinate": [
+          9,
+          7
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Churu",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "3",
+        "Coordinate": [
+          11,
+          7
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Jodhpur",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "16",
+        "Coordinate": [
+          8,
+          8
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Nagaur",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "14",
+        "Coordinate": [
+          10,
+          8
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Jhunjhunu",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "4",
+        "Coordinate": [
+          12,
+          8
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Barmer",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "17",
+        "Coordinate": [
+          7,
+          9
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Pali",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "15",
+        "Coordinate": [
+          9,
+          9
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Rajsamand",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "22",
+        "Coordinate": [
+          11,
+          9
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Sikar",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "5",
+        "Coordinate": [
+          13,
+          9
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Jalore",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "18",
+        "Coordinate": [
+          8,
+          10
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Ajmer",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "13",
+        "Coordinate": [
+          10,
+          10
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Jaipur Rural",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "6",
+        "Coordinate": [
+          12,
+          10
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Alwar",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "8",
+        "Coordinate": [
+          14,
+          10
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Chittorgarh",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "21",
+        "Coordinate": [
+          7,
+          11
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Jaipur",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "7",
+        "Coordinate": [
+          9,
+          11
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Dausa",
+        "Reserved": "ST",
+        "State": "RJ",
+        "Constituency No": "11",
+        "Coordinate": [
+          11,
+          11
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Bharatpur",
+        "Reserved": "SC",
+        "State": "RJ",
+        "Constituency No": "9",
+        "Coordinate": [
+          13,
+          11
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Bhilwara",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "23",
+        "Coordinate": [
+          8,
+          12
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Tonk\u00e2\u20ac\u201cSawai Madhopur",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "12",
+        "Coordinate": [
+          10,
+          12
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Karauli\u00e2\u20ac\u201cDholpur",
+        "Reserved": "SC",
+        "State": "RJ",
+        "Constituency No": "10",
+        "Coordinate": [
+          12,
+          12
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Kota",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "24",
+        "Coordinate": [
+          14,
+          12
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Udaipur",
+        "Reserved": "ST",
+        "State": "RJ",
+        "Constituency No": "19",
+        "Coordinate": [
+          11,
+          13
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Jhalawar\u00e2\u20ac\u201cBaran",
+        "Reserved": "None",
+        "State": "RJ",
+        "Constituency No": "25",
+        "Coordinate": [
+          15,
+          13
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      },
+      {
+        "Name": "Banswara",
+        "Reserved": "ST",
+        "State": "RJ",
+        "Constituency No": "20",
+        "Coordinate": [
+          12,
+          14
+        ],
+        "stateCode": "S20",
+        "stateFullName": "Rajasthan"
+      }
+    ]
+  },
+  {
+    "state": "SK",
+    "stateCode": "S21",
+    "stateFullName": "Sikkim",
+    "Constituencies": [
+      {
+        "Name": "Sikkim",
+        "Reserved": "None",
+        "State": "SK",
+        "Constituency No": "1",
+        "Coordinate": [
+          55,
+          7
+        ],
+        "stateCode": "S21",
+        "stateFullName": "Sikkim"
+      }
+    ]
+  },
+  {
+    "state": "TN",
+    "stateCode": "S22",
+    "stateFullName": "Tamil Nadu",
+    "Constituencies": [
+      {
+        "Name": "Vellore",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "8",
+        "Coordinate": [
+          20,
+          30
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Arakkonam",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "7",
+        "Coordinate": [
+          24,
+          30
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Thiruvallur",
+        "Reserved": "SC",
+        "State": "TN",
+        "Constituency No": "1",
+        "Coordinate": [
+          28,
+          30
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Sriperumbudur",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "5",
+        "Coordinate": [
+          21,
+          31
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Chennai South",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "3",
+        "Coordinate": [
+          23,
+          31
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Chennai Central",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "4",
+        "Coordinate": [
+          25,
+          31
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Chennai North",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "2",
+        "Coordinate": [
+          27,
+          31
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Krishnagiri",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "9",
+        "Coordinate": [
+          18,
+          32
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Tiruvannamalai",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "11",
+        "Coordinate": [
+          20,
+          32
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Arani",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "12",
+        "Coordinate": [
+          22,
+          32
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Kancheepuram",
+        "Reserved": "SC",
+        "State": "TN",
+        "Constituency No": "6",
+        "Coordinate": [
+          24,
+          32
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Villupuram",
+        "Reserved": "SC",
+        "State": "TN",
+        "Constituency No": "13",
+        "Coordinate": [
+          26,
+          32
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Cuddalore",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "26",
+        "Coordinate": [
+          28,
+          32
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Dharmapuri",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "10",
+        "Coordinate": [
+          19,
+          33
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Salem",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "15",
+        "Coordinate": [
+          21,
+          33
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Kallakurichi",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "14",
+        "Coordinate": [
+          23,
+          33
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Chidambaram",
+        "Reserved": "SC",
+        "State": "TN",
+        "Constituency No": "27",
+        "Coordinate": [
+          25,
+          33
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Mayiladuturai",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "28",
+        "Coordinate": [
+          27,
+          33
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Nilgiris",
+        "Reserved": "SC",
+        "State": "TN",
+        "Constituency No": "19",
+        "Coordinate": [
+          18,
+          34
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Tiruppur",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "18",
+        "Coordinate": [
+          20,
+          34
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Namakkal",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "16",
+        "Coordinate": [
+          22,
+          34
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Perambalur",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "25",
+        "Coordinate": [
+          24,
+          34
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Tiruchirappalli",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "24",
+        "Coordinate": [
+          26,
+          34
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Coimbatore",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "20",
+        "Coordinate": [
+          19,
+          35
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Erode",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "17",
+        "Coordinate": [
+          21,
+          35
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Karur",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "23",
+        "Coordinate": [
+          23,
+          35
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Thanjavur",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "30",
+        "Coordinate": [
+          25,
+          35
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Nagapattinam",
+        "Reserved": "SC",
+        "State": "TN",
+        "Constituency No": "29",
+        "Coordinate": [
+          27,
+          35
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Pollachi",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "21",
+        "Coordinate": [
+          20,
+          36
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Dindigul",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "22",
+        "Coordinate": [
+          22,
+          36
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Madurai",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "32",
+        "Coordinate": [
+          24,
+          36
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Sivaganga",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "31",
+        "Coordinate": [
+          26,
+          36
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Theni",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "33",
+        "Coordinate": [
+          21,
+          37
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Virudhunagar",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "34",
+        "Coordinate": [
+          23,
+          37
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Ramanathapuram",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "35",
+        "Coordinate": [
+          25,
+          37
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Tenkasi",
+        "Reserved": "SC",
+        "State": "TN",
+        "Constituency No": "37",
+        "Coordinate": [
+          22,
+          38
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Thoothukudi",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "36",
+        "Coordinate": [
+          24,
+          38
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Kanyakumari",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "39",
+        "Coordinate": [
+          21,
+          39
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      },
+      {
+        "Name": "Tirunelveli",
+        "Reserved": "None",
+        "State": "TN",
+        "Constituency No": "38",
+        "Coordinate": [
+          23,
+          39
+        ],
+        "stateCode": "S22",
+        "stateFullName": "Tamil Nadu"
+      }
+    ]
+  },
+  {
+    "state": "TS",
+    "stateCode": "S29",
+    "stateFullName": "Telangana",
+    "Constituencies": [
+      {
+        "Name": "Adilabad",
+        "Reserved": "ST",
+        "State": "TS",
+        "Constituency No": "1",
+        "Coordinate": [
+          26,
+          20
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Nizamabad",
+        "Reserved": "None",
+        "State": "TS",
+        "Constituency No": "4",
+        "Coordinate": [
+          23,
+          21
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Peddapalle",
+        "Reserved": "SC",
+        "State": "TS",
+        "Constituency No": "2",
+        "Coordinate": [
+          25,
+          21
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Zahirabad",
+        "Reserved": "None",
+        "State": "TS",
+        "Constituency No": "5",
+        "Coordinate": [
+          22,
+          22
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Karimnagar",
+        "Reserved": "None",
+        "State": "TS",
+        "Constituency No": "3",
+        "Coordinate": [
+          24,
+          22
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Malkajgiri",
+        "Reserved": "None",
+        "State": "TS",
+        "Constituency No": "7",
+        "Coordinate": [
+          26,
+          22
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Chevella",
+        "Reserved": "None",
+        "State": "TS",
+        "Constituency No": "10",
+        "Coordinate": [
+          21,
+          23
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Medak",
+        "Reserved": "None",
+        "State": "TS",
+        "Constituency No": "6",
+        "Coordinate": [
+          23,
+          23
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Secunderabad",
+        "Reserved": "None",
+        "State": "TS",
+        "Constituency No": "8",
+        "Coordinate": [
+          25,
+          23
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Warangal",
+        "Reserved": "SC",
+        "State": "TS",
+        "Constituency No": "15",
+        "Coordinate": [
+          27,
+          23
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Mahbubnagar",
+        "Reserved": "None",
+        "State": "TS",
+        "Constituency No": "11",
+        "Coordinate": [
+          22,
+          24
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Hyderabad",
+        "Reserved": "None",
+        "State": "TS",
+        "Constituency No": "9",
+        "Coordinate": [
+          24,
+          24
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Bhongir",
+        "Reserved": "None",
+        "State": "TS",
+        "Constituency No": "14",
+        "Coordinate": [
+          26,
+          24
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Mahabubabad",
+        "Reserved": "ST",
+        "State": "TS",
+        "Constituency No": "16",
+        "Coordinate": [
+          28,
+          24
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Nagarkurnool",
+        "Reserved": "SC",
+        "State": "TS",
+        "Constituency No": "12",
+        "Coordinate": [
+          23,
+          25
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Nalgonda",
+        "Reserved": "None",
+        "State": "TS",
+        "Constituency No": "13",
+        "Coordinate": [
+          25,
+          25
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      },
+      {
+        "Name": "Khammam",
+        "Reserved": "None",
+        "State": "TS",
+        "Constituency No": "17",
+        "Coordinate": [
+          27,
+          25
+        ],
+        "stateCode": "S29",
+        "stateFullName": "Telangana"
+      }
+    ]
+  },
+  {
+    "state": "TR",
+    "stateCode": "S23",
+    "stateFullName": "Tripura",
+    "Constituencies": [
+      {
+        "Name": "Tripura East",
+        "Reserved": "ST",
+        "State": "TR",
+        "Constituency No": "2",
+        "Coordinate": [
+          66,
+          12
+        ],
+        "stateCode": "S23",
+        "stateFullName": "Tripura"
+      },
+      {
+        "Name": "Tripura West",
+        "Reserved": "None",
+        "State": "TR",
+        "Constituency No": "1",
+        "Coordinate": [
+          65,
+          13
+        ],
+        "stateCode": "S23",
+        "stateFullName": "Tripura"
+      }
+    ]
+  },
+  {
+    "state": "UP",
+    "stateCode": "S24",
+    "stateFullName": "Uttar Pradesh",
+    "Constituencies": [
+      {
+        "Name": "Saharanpur",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "1",
+        "Coordinate": [
+          19,
+          3
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Kairana",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "2",
+        "Coordinate": [
+          18,
+          4
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Muzaffarnagar",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "3",
+        "Coordinate": [
+          20,
+          4
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Baghpat",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "11",
+        "Coordinate": [
+          17,
+          5
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Bijnor",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "4",
+        "Coordinate": [
+          19,
+          5
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Nagina",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "5",
+        "Coordinate": [
+          21,
+          5
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Meerut",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "10",
+        "Coordinate": [
+          20,
+          6
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Moradabad",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "6",
+        "Coordinate": [
+          22,
+          6
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Amroha",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "9",
+        "Coordinate": [
+          21,
+          7
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Sambhal",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "8",
+        "Coordinate": [
+          23,
+          7
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Rampur",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "7",
+        "Coordinate": [
+          25,
+          7
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Ghaziabad",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "12",
+        "Coordinate": [
+          20,
+          8
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Badaun",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "23",
+        "Coordinate": [
+          22,
+          8
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Bareilly",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "25",
+        "Coordinate": [
+          24,
+          8
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Pilibhit",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "26",
+        "Coordinate": [
+          26,
+          8
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Domariyaganj",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "60",
+        "Coordinate": [
+          32,
+          8
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Maharajganj",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "63",
+        "Coordinate": [
+          34,
+          8
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Gautam Buddha Nagar",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "13",
+        "Coordinate": [
+          19,
+          9
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Bulandshahr",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "14",
+        "Coordinate": [
+          21,
+          9
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Aonla",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "24",
+        "Coordinate": [
+          23,
+          9
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Shahjahanpur",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "27",
+        "Coordinate": [
+          25,
+          9
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Kheri",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "28",
+        "Coordinate": [
+          27,
+          9
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Bahraich",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "56",
+        "Coordinate": [
+          29,
+          9
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Shrawasti",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "58",
+        "Coordinate": [
+          31,
+          9
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Gorakhpur",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "64",
+        "Coordinate": [
+          33,
+          9
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Kushi Nagar",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "65",
+        "Coordinate": [
+          35,
+          9
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Mathura",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "17",
+        "Coordinate": [
+          16,
+          10
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Aligarh",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "15",
+        "Coordinate": [
+          18,
+          10
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Etah",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "22",
+        "Coordinate": [
+          20,
+          10
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Farrukhabad",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "40",
+        "Coordinate": [
+          22,
+          10
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Hardoi",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "31",
+        "Coordinate": [
+          24,
+          10
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Dhaurahra",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "29",
+        "Coordinate": [
+          26,
+          10
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Sitapur",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "30",
+        "Coordinate": [
+          28,
+          10
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Kaiserganj",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "57",
+        "Coordinate": [
+          30,
+          10
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Gonda",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "59",
+        "Coordinate": [
+          32,
+          10
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Bansgaon",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "67",
+        "Coordinate": [
+          34,
+          10
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Deoria",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "66",
+        "Coordinate": [
+          36,
+          10
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Hathras",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "16",
+        "Coordinate": [
+          15,
+          11
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Agra",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "18",
+        "Coordinate": [
+          17,
+          11
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Firozabad",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "20",
+        "Coordinate": [
+          19,
+          11
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Mainpuri",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "21",
+        "Coordinate": [
+          21,
+          11
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Kannauj",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "42",
+        "Coordinate": [
+          23,
+          11
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Misrikh",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "32",
+        "Coordinate": [
+          25,
+          11
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Mohanlalganj",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "34",
+        "Coordinate": [
+          27,
+          11
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Lucknow",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "35",
+        "Coordinate": [
+          29,
+          11
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Faizabad",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "54",
+        "Coordinate": [
+          31,
+          11
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Basti",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "61",
+        "Coordinate": [
+          33,
+          11
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Sant Kabir Nagar",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "62",
+        "Coordinate": [
+          35,
+          11
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Fatehpur Sikri",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "19",
+        "Coordinate": [
+          16,
+          12
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Etawah",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "41",
+        "Coordinate": [
+          20,
+          12
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Kanpur Urban",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "43",
+        "Coordinate": [
+          22,
+          12
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Unnao",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "33",
+        "Coordinate": [
+          24,
+          12
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Amethi",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "37",
+        "Coordinate": [
+          26,
+          12
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Sultanpur",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "38",
+        "Coordinate": [
+          28,
+          12
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Barabanki",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "53",
+        "Coordinate": [
+          30,
+          12
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Ambedkar Nagar",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "55",
+        "Coordinate": [
+          32,
+          12
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Lalganj",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "68",
+        "Coordinate": [
+          34,
+          12
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Jalaun",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "45",
+        "Coordinate": [
+          21,
+          13
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Akbarpur",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "44",
+        "Coordinate": [
+          23,
+          13
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Rae Bareli",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "36",
+        "Coordinate": [
+          25,
+          13
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Pratapgarh",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "39",
+        "Coordinate": [
+          27,
+          13
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Bhadohi",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "78",
+        "Coordinate": [
+          29,
+          13
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Azamgarh",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "69",
+        "Coordinate": [
+          31,
+          13
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Salempur",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "71",
+        "Coordinate": [
+          33,
+          13
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Jhansi",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "46",
+        "Coordinate": [
+          20,
+          14
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Hamirpur",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "47",
+        "Coordinate": [
+          22,
+          14
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Fatehpur",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "49",
+        "Coordinate": [
+          24,
+          14
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Phulpur",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "51",
+        "Coordinate": [
+          26,
+          14
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Jaunpur",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "73",
+        "Coordinate": [
+          28,
+          14
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Machhlishahr",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "74",
+        "Coordinate": [
+          30,
+          14
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Ghosi",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "70",
+        "Coordinate": [
+          32,
+          14
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Banda",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "48",
+        "Coordinate": [
+          23,
+          15
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Kaushambi",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "50",
+        "Coordinate": [
+          25,
+          15
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Allahabad",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "52",
+        "Coordinate": [
+          27,
+          15
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Chandauli",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "76",
+        "Coordinate": [
+          29,
+          15
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Ghazipur",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "75",
+        "Coordinate": [
+          31,
+          15
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Ballia",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "72",
+        "Coordinate": [
+          33,
+          15
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Mirzapur",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "79",
+        "Coordinate": [
+          28,
+          16
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Varanasi",
+        "Reserved": "None",
+        "State": "UP",
+        "Constituency No": "77",
+        "Coordinate": [
+          30,
+          16
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      },
+      {
+        "Name": "Robertsganj",
+        "Reserved": "SC",
+        "State": "UP",
+        "Constituency No": "80",
+        "Coordinate": [
+          29,
+          17
+        ],
+        "stateCode": "S24",
+        "stateFullName": "Uttar Pradesh"
+      }
+    ]
+  },
+  {
+    "state": "UK",
+    "stateCode": "S28",
+    "stateFullName": "Uttarakhand",
+    "Constituencies": [
+      {
+        "Name": "Tehri Garhwal",
+        "Reserved": "None",
+        "State": "UK",
+        "Constituency No": "1",
+        "Coordinate": [
+          21,
+          3
+        ],
+        "stateCode": "S28",
+        "stateFullName": "Uttarakhand"
+      },
+      {
+        "Name": "Garhwal",
+        "Reserved": "None",
+        "State": "UK",
+        "Constituency No": "2",
+        "Coordinate": [
+          23,
+          3
+        ],
+        "stateCode": "S28",
+        "stateFullName": "Uttarakhand"
+      },
+      {
+        "Name": "Haridwar",
+        "Reserved": "None",
+        "State": "UK",
+        "Constituency No": "5",
+        "Coordinate": [
+          22,
+          4
+        ],
+        "stateCode": "S28",
+        "stateFullName": "Uttarakhand"
+      },
+      {
+        "Name": "Almora",
+        "Reserved": "SC",
+        "State": "UK",
+        "Constituency No": "3",
+        "Coordinate": [
+          24,
+          4
+        ],
+        "stateCode": "S28",
+        "stateFullName": "Uttarakhand"
+      },
+      {
+        "Name": "Nainital\u00e2\u20ac\u201cUdhamsingh Nagar",
+        "Reserved": "None",
+        "State": "UK",
+        "Constituency No": "4",
+        "Coordinate": [
+          23,
+          5
+        ],
+        "stateCode": "S28",
+        "stateFullName": "Uttarakhand"
+      }
+    ]
+  },
+  {
+    "state": "WB",
+    "stateCode": "S25",
+    "stateFullName": "West Bengal",
+    "Constituencies": [
+      {
+        "Name": "Darjeeling",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "4",
+        "Coordinate": [
+          54,
+          8
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Jalpaiguri",
+        "Reserved": "SC",
+        "State": "WB",
+        "Constituency No": "3",
+        "Coordinate": [
+          56,
+          8
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Alipurduars",
+        "Reserved": "ST",
+        "State": "WB",
+        "Constituency No": "2",
+        "Coordinate": [
+          58,
+          8
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Cooch Behar",
+        "Reserved": "SC",
+        "State": "WB",
+        "Constituency No": "1",
+        "Coordinate": [
+          60,
+          8
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Raiganj",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "5",
+        "Coordinate": [
+          53,
+          9
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Balurghat",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "6",
+        "Coordinate": [
+          55,
+          9
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Maldaha Uttar",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "7",
+        "Coordinate": [
+          57,
+          9
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Maldaha Dakshin",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "8",
+        "Coordinate": [
+          59,
+          9
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Birbhum",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "42",
+        "Coordinate": [
+          52,
+          10
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Jangipur",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "9",
+        "Coordinate": [
+          54,
+          10
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Murshidabad",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "11",
+        "Coordinate": [
+          56,
+          10
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Asansol",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "40",
+        "Coordinate": [
+          51,
+          11
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Bolpur",
+        "Reserved": "SC",
+        "State": "WB",
+        "Constituency No": "41",
+        "Coordinate": [
+          53,
+          11
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Baharampur",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "10",
+        "Coordinate": [
+          55,
+          11
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Purulia",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "35",
+        "Coordinate": [
+          48,
+          12
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Bankura",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "36",
+        "Coordinate": [
+          50,
+          12
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Bishnupur",
+        "Reserved": "SC",
+        "State": "WB",
+        "Constituency No": "37",
+        "Coordinate": [
+          52,
+          12
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Bardhaman\u00e2\u20ac\u201cDurgapur",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "39",
+        "Coordinate": [
+          54,
+          12
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Krishnanagar",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "12",
+        "Coordinate": [
+          56,
+          12
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Jhargram",
+        "Reserved": "ST",
+        "State": "WB",
+        "Constituency No": "33",
+        "Coordinate": [
+          49,
+          13
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Arambag",
+        "Reserved": "SC",
+        "State": "WB",
+        "Constituency No": "29",
+        "Coordinate": [
+          51,
+          13
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Bardhaman Purba",
+        "Reserved": "SC",
+        "State": "WB",
+        "Constituency No": "38",
+        "Coordinate": [
+          53,
+          13
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Hooghly",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "28",
+        "Coordinate": [
+          55,
+          13
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Ranaghat",
+        "Reserved": "SC",
+        "State": "WB",
+        "Constituency No": "13",
+        "Coordinate": [
+          57,
+          13
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Medinipur",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "34",
+        "Coordinate": [
+          48,
+          14
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Ghatal",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "32",
+        "Coordinate": [
+          50,
+          14
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Srerampur",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "27",
+        "Coordinate": [
+          52,
+          14
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Kolkata Uttar",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "24",
+        "Coordinate": [
+          54,
+          14
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Barrackpur",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "15",
+        "Coordinate": [
+          56,
+          14
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Bangaon",
+        "Reserved": "SC",
+        "State": "WB",
+        "Constituency No": "14",
+        "Coordinate": [
+          58,
+          14
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Kanthi",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "31",
+        "Coordinate": [
+          47,
+          15
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Howrah",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "25",
+        "Coordinate": [
+          49,
+          15
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Kolkata Dakshin",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "23",
+        "Coordinate": [
+          51,
+          15
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Dum Dum",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "16",
+        "Coordinate": [
+          53,
+          15
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Barasat",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "17",
+        "Coordinate": [
+          55,
+          15
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Basirhat",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "18",
+        "Coordinate": [
+          57,
+          15
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Tamluk",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "30",
+        "Coordinate": [
+          48,
+          16
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Uluberia",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "26",
+        "Coordinate": [
+          50,
+          16
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Diamond Harbour",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "21",
+        "Coordinate": [
+          52,
+          16
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Jadavpur",
+        "Reserved": "None",
+        "State": "WB",
+        "Constituency No": "22",
+        "Coordinate": [
+          54,
+          16
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Mathurapur",
+        "Reserved": "SC",
+        "State": "WB",
+        "Constituency No": "20",
+        "Coordinate": [
+          56,
+          16
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      },
+      {
+        "Name": "Jaynagar",
+        "Reserved": "SC",
+        "State": "WB",
+        "Constituency No": "19",
+        "Coordinate": [
+          58,
+          16
+        ],
+        "stateCode": "S25",
+        "stateFullName": "West Bengal"
+      }
+    ]
+  },
+  {
+    "state": "AN",
+    "stateCode": "U01",
+    "stateFullName": "Andaman and Nicobar Islands",
+    "Constituencies": [
+      {
+        "Name": "Andaman and Nicobar Islands",
+        "Reserved": "None",
+        "State": "AN",
+        "Constituency No": "1",
+        "Coordinate": [
+          66,
+          32
+        ],
+        "stateCode": "U01",
+        "stateFullName": "Andaman and Nicobar Islands"
+      }
+    ]
+  },
+  {
+    "state": "CH",
+    "stateCode": "U02",
+    "stateFullName": "Chandigarh",
+    "Constituencies": [
+      {
+        "Name": "Chandigarh",
+        "Reserved": "None",
+        "State": "CH",
+        "Constituency No": "1",
+        "Coordinate": [
+          16,
+          2
+        ],
+        "stateCode": "U02",
+        "stateFullName": "Chandigarh"
+      }
+    ]
+  },
+  {
+    "state": "DH",
+    "stateCode": "U03",
+    "stateFullName": "Dadra and Nagar Haveli",
+    "Constituencies": [
+      {
+        "Name": "Dadra and Nagar Haveli",
+        "Reserved": "ST",
+        "State": "DH",
+        "Constituency No": "1",
+        "Coordinate": [
+          9,
+          19
+        ],
+        "stateCode": "U03",
+        "stateFullName": "Dadra and Nagar Haveli"
+      }
+    ]
+  },
+  {
+    "state": "DD",
+    "stateCode": "U04",
+    "stateFullName": "Daman and Diu",
+    "Constituencies": [
+      {
+        "Name": "Daman and Diu",
+        "Reserved": "None",
+        "State": "DD",
+        "Constituency No": "1",
+        "Coordinate": [
+          9,
+          17
+        ],
+        "stateCode": "U04",
+        "stateFullName": "Daman and Diu"
+      }
+    ]
+  },
+  {
+    "state": "DL",
+    "stateCode": "U05",
+    "stateFullName": "Delhi",
+    "Constituencies": [
+      {
+        "Name": "North West Delhi",
+        "Reserved": "SC",
+        "State": "DL",
+        "Constituency No": "5",
+        "Coordinate": [
+          16,
+          6
+        ],
+        "stateCode": "U05",
+        "stateFullName": "Delhi"
+      },
+      {
+        "Name": "North East Delhi",
+        "Reserved": "None",
+        "State": "DL",
+        "Constituency No": "2",
+        "Coordinate": [
+          18,
+          6
+        ],
+        "stateCode": "U05",
+        "stateFullName": "Delhi"
+      },
+      {
+        "Name": "Chandni Chowk",
+        "Reserved": "None",
+        "State": "DL",
+        "Constituency No": "1",
+        "Coordinate": [
+          15,
+          7
+        ],
+        "stateCode": "U05",
+        "stateFullName": "Delhi"
+      },
+      {
+        "Name": "New Delhi",
+        "Reserved": "None",
+        "State": "DL",
+        "Constituency No": "4",
+        "Coordinate": [
+          17,
+          7
+        ],
+        "stateCode": "U05",
+        "stateFullName": "Delhi"
+      },
+      {
+        "Name": "East Delhi",
+        "Reserved": "None",
+        "State": "DL",
+        "Constituency No": "3",
+        "Coordinate": [
+          19,
+          7
+        ],
+        "stateCode": "U05",
+        "stateFullName": "Delhi"
+      },
+      {
+        "Name": "West Delhi",
+        "Reserved": "None",
+        "State": "DL",
+        "Constituency No": "6",
+        "Coordinate": [
+          16,
+          8
+        ],
+        "stateCode": "U05",
+        "stateFullName": "Delhi"
+      },
+      {
+        "Name": "South Delhi",
+        "Reserved": "None",
+        "State": "DL",
+        "Constituency No": "7",
+        "Coordinate": [
+          18,
+          8
+        ],
+        "stateCode": "U05",
+        "stateFullName": "Delhi"
+      }
+    ]
+  },
+  {
+    "state": "LD",
+    "stateCode": "U06",
+    "stateFullName": "Lakshadweep",
+    "Constituencies": [
+      {
+        "Name": "Lakshadweep",
+        "Reserved": "ST",
+        "State": "LD",
+        "Constituency No": "1",
+        "Coordinate": [
+          1,
+          35
+        ],
+        "stateCode": "U06",
+        "stateFullName": "Lakshadweep"
+      }
+    ]
+  },
+  {
+    "state": "PY",
+    "stateCode": "U07",
+    "stateFullName": "Pondicherry",
+    "Constituencies": [
+      {
+        "Name": "Puducherry",
+        "Reserved": "None",
+        "State": "PY",
+        "Constituency No": "1",
+        "Coordinate": [
+          28,
+          34
+        ],
+        "stateCode": "U07",
+        "stateFullName": "Pondicherry"
+      }
+    ]
+  }
+]
