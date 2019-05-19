@@ -1002,7 +1002,7 @@
   {
     "state": "CG",
     "stateCode": "S26",
-    "stateFullName": "Chhattisgarh",
+    "stateFullName": "Chattisgarh",
     "Constituencies": [
       {
         "Name": "Sarguja",
@@ -1014,7 +1014,7 @@
           17
         ],
         "stateCode": "S26",
-        "stateFullName": "Chhattisgarh"
+        "stateFullName": "Chattisgarh"
       },
       {
         "Name": "Raigarh",
@@ -1026,7 +1026,7 @@
           17
         ],
         "stateCode": "S26",
-        "stateFullName": "Chhattisgarh"
+        "stateFullName": "Chattisgarh"
       },
       {
         "Name": "Korba",
@@ -1038,7 +1038,7 @@
           18
         ],
         "stateCode": "S26",
-        "stateFullName": "Chhattisgarh"
+        "stateFullName": "Chattisgarh"
       },
       {
         "Name": "Janjgir",
@@ -1050,7 +1050,7 @@
           18
         ],
         "stateCode": "S26",
-        "stateFullName": "Chhattisgarh"
+        "stateFullName": "Chattisgarh"
       },
       {
         "Name": "Bilaspur",
@@ -1062,7 +1062,7 @@
           19
         ],
         "stateCode": "S26",
-        "stateFullName": "Chhattisgarh"
+        "stateFullName": "Chattisgarh"
       },
       {
         "Name": "Raipur",
@@ -1074,7 +1074,7 @@
           19
         ],
         "stateCode": "S26",
-        "stateFullName": "Chhattisgarh"
+        "stateFullName": "Chattisgarh"
       },
       {
         "Name": "Durg",
@@ -1086,7 +1086,7 @@
           20
         ],
         "stateCode": "S26",
-        "stateFullName": "Chhattisgarh"
+        "stateFullName": "Chattisgarh"
       },
       {
         "Name": "Mahasamund",
@@ -1098,7 +1098,7 @@
           20
         ],
         "stateCode": "S26",
-        "stateFullName": "Chhattisgarh"
+        "stateFullName": "Chattisgarh"
       },
       {
         "Name": "Rajnandgaon",
@@ -1110,7 +1110,7 @@
           21
         ],
         "stateCode": "S26",
-        "stateFullName": "Chhattisgarh"
+        "stateFullName": "Chattisgarh"
       },
       {
         "Name": "Kanker",
@@ -1122,7 +1122,7 @@
           21
         ],
         "stateCode": "S26",
-        "stateFullName": "Chhattisgarh"
+        "stateFullName": "Chattisgarh"
       },
       {
         "Name": "Bastar",
@@ -1134,7 +1134,7 @@
           22
         ],
         "stateCode": "S26",
-        "stateFullName": "Chhattisgarh"
+        "stateFullName": "Chattisgarh"
       }
     ]
   },
@@ -1673,7 +1673,7 @@
   {
     "state": "JK",
     "stateCode": "S09",
-    "stateFullName": "Jammu and Kashmir",
+    "stateFullName": "Jammu & Kashmir",
     "Constituencies": [
       {
         "Name": "Baramulla",
@@ -1685,7 +1685,7 @@
           0
         ],
         "stateCode": "S09",
-        "stateFullName": "Jammu and Kashmir"
+        "stateFullName": "Jammu & Kashmir"
       },
       {
         "Name": "Srinagar",
@@ -1697,7 +1697,7 @@
           0
         ],
         "stateCode": "S09",
-        "stateFullName": "Jammu and Kashmir"
+        "stateFullName": "Jammu & Kashmir"
       },
       {
         "Name": "Anantnag",
@@ -1709,7 +1709,7 @@
           0
         ],
         "stateCode": "S09",
-        "stateFullName": "Jammu and Kashmir"
+        "stateFullName": "Jammu & Kashmir"
       },
       {
         "Name": "Udhampur",
@@ -1721,7 +1721,7 @@
           0
         ],
         "stateCode": "S09",
-        "stateFullName": "Jammu and Kashmir"
+        "stateFullName": "Jammu & Kashmir"
       },
       {
         "Name": "Ladakh",
@@ -1733,7 +1733,7 @@
           0
         ],
         "stateCode": "S09",
-        "stateFullName": "Jammu and Kashmir"
+        "stateFullName": "Jammu & Kashmir"
       },
       {
         "Name": "Jammu",
@@ -1745,7 +1745,7 @@
           1
         ],
         "stateCode": "S09",
-        "stateFullName": "Jammu and Kashmir"
+        "stateFullName": "Jammu & Kashmir"
       }
     ]
   },
@@ -3555,7 +3555,7 @@
   {
     "state": "OR",
     "stateCode": "S18",
-    "stateFullName": "Orissa",
+    "stateFullName": "Odisha",
     "Constituencies": [
       {
         "Name": "Mayurbhanj",
@@ -3567,7 +3567,7 @@
           15
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Sundargarh",
@@ -3579,7 +3579,7 @@
           16
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Keonjhar",
@@ -3591,7 +3591,7 @@
           16
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Balasore",
@@ -3603,7 +3603,7 @@
           16
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Jajpur",
@@ -3615,7 +3615,7 @@
           17
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Bhadrak",
@@ -3627,7 +3627,7 @@
           17
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Bargarh",
@@ -3639,7 +3639,7 @@
           18
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Sambalpur",
@@ -3651,7 +3651,7 @@
           18
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Dhenkanal",
@@ -3663,7 +3663,7 @@
           18
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Kendrapara",
@@ -3675,7 +3675,7 @@
           18
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Bolangir",
@@ -3687,7 +3687,7 @@
           19
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Cuttack",
@@ -3699,7 +3699,7 @@
           19
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Bhubaneswar",
@@ -3711,7 +3711,7 @@
           19
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Jagatsinghpur",
@@ -3723,7 +3723,7 @@
           19
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Kalahandi",
@@ -3735,7 +3735,7 @@
           20
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Kandhamal",
@@ -3747,7 +3747,7 @@
           20
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Aska",
@@ -3759,7 +3759,7 @@
           20
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Puri",
@@ -3771,7 +3771,7 @@
           20
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Koraput",
@@ -3783,7 +3783,7 @@
           21
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Berhampur",
@@ -3795,7 +3795,7 @@
           21
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       },
       {
         "Name": "Nabarangpur",
@@ -3807,7 +3807,7 @@
           22
         ],
         "stateCode": "S18",
-        "stateFullName": "Orissa"
+        "stateFullName": "Odisha"
       }
     ]
   },
@@ -6565,10 +6565,10 @@
   {
     "state": "AN",
     "stateCode": "U01",
-    "stateFullName": "Andaman and Nicobar Islands",
+    "stateFullName": "Andaman & Nicobar Islands",
     "Constituencies": [
       {
-        "Name": "Andaman and Nicobar Islands",
+        "Name": "Andaman & Nicobar Islands",
         "Reserved": "None",
         "State": "AN",
         "Constituency No": "1",
@@ -6577,7 +6577,7 @@
           32
         ],
         "stateCode": "U01",
-        "stateFullName": "Andaman and Nicobar Islands"
+        "stateFullName": "Andaman & Nicobar Islands"
       }
     ]
   },
@@ -6603,10 +6603,10 @@
   {
     "state": "DH",
     "stateCode": "U03",
-    "stateFullName": "Dadra and Nagar Haveli",
+    "stateFullName": "Dadra & Nagar Haveli",
     "Constituencies": [
       {
-        "Name": "Dadra and Nagar Haveli",
+        "Name": "Dadra & Nagar Haveli",
         "Reserved": "ST",
         "State": "DH",
         "Constituency No": "1",
@@ -6615,17 +6615,17 @@
           19
         ],
         "stateCode": "U03",
-        "stateFullName": "Dadra and Nagar Haveli"
+        "stateFullName": "Dadra & Nagar Haveli"
       }
     ]
   },
   {
     "state": "DD",
     "stateCode": "U04",
-    "stateFullName": "Daman and Diu",
+    "stateFullName": "Daman & Diu",
     "Constituencies": [
       {
-        "Name": "Daman and Diu",
+        "Name": "Daman & Diu",
         "Reserved": "None",
         "State": "DD",
         "Constituency No": "1",
@@ -6634,14 +6634,14 @@
           17
         ],
         "stateCode": "U04",
-        "stateFullName": "Daman and Diu"
+        "stateFullName": "Daman & Diu"
       }
     ]
   },
   {
     "state": "DL",
     "stateCode": "U05",
-    "stateFullName": "Delhi",
+    "stateFullName": "NCT of Delhi",
     "Constituencies": [
       {
         "Name": "North West Delhi",
@@ -6653,7 +6653,7 @@
           6
         ],
         "stateCode": "U05",
-        "stateFullName": "Delhi"
+        "stateFullName": "NCT of Delhi"
       },
       {
         "Name": "North East Delhi",
@@ -6665,7 +6665,7 @@
           6
         ],
         "stateCode": "U05",
-        "stateFullName": "Delhi"
+        "stateFullName": "NCT of Delhi"
       },
       {
         "Name": "Chandni Chowk",
@@ -6677,7 +6677,7 @@
           7
         ],
         "stateCode": "U05",
-        "stateFullName": "Delhi"
+        "stateFullName": "NCT of Delhi"
       },
       {
         "Name": "New Delhi",
@@ -6689,7 +6689,7 @@
           7
         ],
         "stateCode": "U05",
-        "stateFullName": "Delhi"
+        "stateFullName": "NCT of Delhi"
       },
       {
         "Name": "East Delhi",
@@ -6701,7 +6701,7 @@
           7
         ],
         "stateCode": "U05",
-        "stateFullName": "Delhi"
+        "stateFullName": "NCT of Delhi"
       },
       {
         "Name": "West Delhi",
@@ -6713,7 +6713,7 @@
           8
         ],
         "stateCode": "U05",
-        "stateFullName": "Delhi"
+        "stateFullName": "NCT of Delhi"
       },
       {
         "Name": "South Delhi",
@@ -6725,7 +6725,7 @@
           8
         ],
         "stateCode": "U05",
-        "stateFullName": "Delhi"
+        "stateFullName": "NCT of Delhi"
       }
     ]
   },
@@ -6751,7 +6751,7 @@
   {
     "state": "PY",
     "stateCode": "U07",
-    "stateFullName": "Pondicherry",
+    "stateFullName": "Puducherry",
     "Constituencies": [
       {
         "Name": "Puducherry",
@@ -6763,7 +6763,7 @@
           34
         ],
         "stateCode": "U07",
-        "stateFullName": "Pondicherry"
+        "stateFullName": "Puducherry"
       }
     ]
   }
